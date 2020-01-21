@@ -1,5 +1,5 @@
 Keras==2.2.2
-nltk==3.3
+nltk==3.4.5
 talos==0.4.3
 deap==1.2.2
 opencv-python==3.4.3.18
