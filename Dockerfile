@@ -1,6 +1,5 @@
 FROM jupyter/datascience-notebook
-LABEL maintainer="Mácio Matheus Santos de Arruda (matheusmacio13@gmail.com)"
-
+LABEL maintainer="Mácio Matheus Santos de Arruda (macio.matheus.arruda@gmail.com)"
 
 # Set the working directory to /app
 WORKDIR /home/jovyan/work
