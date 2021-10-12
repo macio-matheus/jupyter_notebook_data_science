@@ -2,7 +2,7 @@ Keras==2.2.2
 nltk==3.3
 talos==0.4.3
 deap==1.2.2
-opencv-python==3.4.3.18
+opencv-python==4.2.0.32
 stop-words==2018.7.23
 scikit-fuzzy==0.4.0
 pyswip==0.2.7
